@@ -1,16 +1,13 @@
-### Hi there 👋
+#	Hello, everyone!
 
-<!--
-**aelunaaa/aelunaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##	 My name is Arianne Grace P. Luna and I'm from Pavia, Iloilo City. I'm currently a Third-Year Student, studying Bachelor of Science in Information Technology at Central Philippine University, and I hope to become succesful, happy with a contented life one day.
 
-Here are some ideas to get you started:
+##	 I'm really passionate about what's more into life, goal, mindset and success. I'm always looking for new ways to learn and improve my skills. I'm also a firm believer of with prayer and hardwork, everything will go into place in the right time. 
+	
+###	Here are the 5 interesting facts about me:
+###	1. I can sleep in sitting position (Indian Sit position)
+###	2. I know how to play Kalimba, Guitar and Ukelele. 
+###	3. I am a pet lover. I'd rather sacrifice my left money to buy it for street dogs than use that money for myself. 
+###	4. I love reading books (self-help books and african proverbs is the best)
+###	5. I am obsessed with moon,stars -the night sky. I love rain but I am so afraid of thunder and its lightning. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
